@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LinkHay</string>
+    <string name="title_search">Search</string>
+    <string name="search_label">Search Label</string>
+    <string name="search_hint">Search Hint</string>
+    <!-- Title in the Settings screen for the "Show local times" option -->
+    <string name="pref_local_times_title">Show local times</string>
+    <!-- Summary in the Settings screen for the "Show local times" option -->
+    <string name="pref_local_times_description">Use your local time instead of the conference’s local time.</string>
+
+    <string name="navdrawer_description_a11y">Navigation Drawer used to switch between major         features of the application</string>
+    <string name="description_search">Search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
